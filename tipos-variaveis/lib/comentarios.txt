@@ -1,0 +1,23 @@
+A linguagem java tem oito tipos primitivos
+
+byte
+short
+int
+long
+
+utilizar o int é o mais comumm
+
+float
+double 
+
+numeros com ponto flutuantes
+
+Declaração de variaveis 
+
+<Tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
+
+tipo long precisa ter um l no final
+tipo float precisa ter um f no final
+
+Java é fortemente tipado
+
